@@ -17,7 +17,7 @@
 	</head>
 	
 	<header id="header">
-		WELCOME TO MAX'S BLOG
+		Welcome to Tristans webpage.
 	</header>
 
 	<body>
@@ -54,16 +54,12 @@
 		<div class="modal-content">
 		  <div class="modal-header">
 		    <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-		    <h4 class="modal-title" id="myModalLabel">This is my blog project made for my app academy class. Enjoy.</h4>
+		    <h4 class="modal-title" id="myModalLabel">Webpage Poject.</h4>
 		  </div>
 		  <div class="modal-body">
 		    <img class="img-responsive"	id="mogulpara"	src="http://quotesnsmiles.com/wp-content/uploads/2012/12/Albert-Einstein-Simple-Picture-Quote.jpg">
 
 			<p>
-				This blog is for posting your opinions.  To be able to post, you must register and log in.  Once you do, the link
-				to post will appear at the bottom of this pop-up.  Every post is anonymous, whether you want it or not,
-				so post without fear of ridicule.  This is a a non-biased blog, so all sides of an argument are welcome, 
-				as long as you have sufficient evidence and plenty of logic backing your thoughts.  If you see something that you
-				think is wrong and disagree with, don't get mean, don't just state that's it's wrong, prove it calmly.  Do not assume that you are right.
+				This webpage is a blog for my app academy class.
 							
 	
